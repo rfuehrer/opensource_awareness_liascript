@@ -146,4 +146,31 @@ Was bedeuten die Open-Source-Terminologie "Upstream" und "Downstream" in der Ent
 
 ## Abschluss
 
-FIN
+<script style="display: block" modify="false">
+  const gauge = {
+  tooltip: {
+    formatter: '{a} <br/>{b} : {c}%'
+  },
+  series: [
+    {
+      name: 'Progress',
+      type: 'gauge',
+      progress: {
+        show: true
+      },
+      detail: {
+        valueAnimation: true,
+        formatter: '{value}'
+      },
+      data: [
+        {
+          value: window.SCORE || 0,
+          name: 'SCORE'
+        }
+      ]
+    }
+  ]
+};
+
+`HTML: <lia-chart option='${JSON.stringify(gauge)}'></lia-chart>`
+</script>

@@ -1,7 +1,7 @@
 <!--
 author:   René Führer
 
-email:    rene.fuehrer@generali.com
+email:    25303664+rfuehrer@users.noreply.github.com
 
 version:  1.0.0
 
@@ -22,7 +22,7 @@ import:  https://raw.githubusercontent.com/liaScript/tensorflowjs_template/maste
 
 # Open Source Awareness
 
-Diese Schulung bietet einen Überblick über die Nutzung und Bereitstellung von Open Source bei der Generali Deutschland AG.
+Diese Schulung bietet einen Überblick über die Nutzung und Bereitstellung von Open Source bei uns.
 
 Die Schulung wurde ursprünglich für interne an Open Source interessierten Mitarbeitenden konzipiert, thematisiert aber in dden aktuellen Revisionen der Unterlagen auch stark auf das Thema Nutzung von Open Source unter Aspekten der Sicherheit und (Lizenz-)Recht.
 

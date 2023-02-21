@@ -88,7 +88,7 @@ Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lo
 
 Welche dieser Antworten kann kein Open Source sein?
 
-<!-- data-randomize data-max-trials="1" data-show-solution-button="999" -->
+<!-- data-randomize data-max-trials="3" data-solution-button="1" -->
 - [( )] Ein Server Design
 - [( )] Linux Betriebssysteme
 - [(X)] Windows Server
@@ -98,7 +98,7 @@ Welche dieser Antworten kann kein Open Source sein?
 
 Was bedeutet `Forking`?
 
-<!-- data-randomize data-max-trials="1" data-show-solution-button="999" -->
+<!-- data-randomize data-max-trials="1" data-solution-button="999" -->
 - [( )] Ein Forking liegt vor, wenn ein Open-Source-Programm von der Gemeinschaft öffentlich weiterentwickelt wird.
 - [( )] Forking ist das Stechen auf ein verkochtes Hähnchen, bis es am Essbesteck kleben bleibt.
 - [( )] Forking liegt vor, wenn ein proprietäres Quellcode-Hardwaredesign als Grundlage für die Entwicklung von etwas anderem verwendet wird.
@@ -108,7 +108,7 @@ Was bedeutet `Forking`?
 
 Welche der folgenden Aussagen trifft auf GitHub nicht zu?
 
-<!-- data-randomize data-max-trials="1" data-show-solution-button="999" -->
+<!-- data-randomize data-max-trials="1" data-solution-button="999" -->
 - [(X)] Ein Online-Marktplatz, auf dem Unternehmen proprietäre Software testen und dann kaufen können
 - [( )] Ein Ort, an dem Unternehmen Software finden und ins Haus holen können
 - [( )] Ein Repository für Open-Source-Software
@@ -118,7 +118,7 @@ Welche der folgenden Aussagen trifft auf GitHub nicht zu?
 
 What is `OCP`?
 
-<!-- data-randomize data-max-trials="1" data-show-solution-button="999" -->
+<!-- data-randomize data-max-trials="1" data-solution-button="999" -->
 - [( )] Operational Computer Portfolio
 - [( )] Die von IBM angebotene Produktfamilie für reine Linux-Mainframes
 - [(X)] Eine Initiative zur Entwicklung von Open-Source-Servern und Rechenzentren
@@ -128,7 +128,7 @@ What is `OCP`?
 
 Welches der folgenden Softwareprodukte wird von Red Hat nicht angeboten?
 
-<!-- data-randomize data-max-trials="1" data-show-solution-button="999" -->
+<!-- data-randomize data-max-trials="1" data-solution-button="999" -->
 - [( )] Ein Linux-Betriebssystem
 - [(X)] Oracle-Datenbankanwendungen
 - [( )] Software für die Konfigurationsverwaltung
@@ -138,7 +138,7 @@ Welches der folgenden Softwareprodukte wird von Red Hat nicht angeboten?
 
 Was bedeuten die Open-Source-Terminologie "Upstream" und "Downstream" in der Entwicklung?
 
-<!-- data-randomize data-max-trials="1" data-show-solution-button="999" -->
+<!-- data-randomize data-max-trials="1" data-solution-button="999" -->
 - [(X)] Upstream bezieht sich auf die Entwicklung durch diejenigen, die einen Quellcode oder eine Software erstellt oder gepflegt haben; Downstream ist die Entwicklung durch Unternehmen, die den Quellcode oder die Software geforkt haben und Support und Dienstleistungen für diese Software/den Quellcode anbieten.
 - [( )] Upstream bezieht sich auf die Entwicklung durch erfahrene Mitglieder des Entwicklungsteams; Downstream bezieht sich auf die Entwicklung durch Junior- und andere rangniedrigere Entwickler.
 - [( )] Upstream bezieht sich auf die Entwicklung durch ein Unternehmen, das den Quellcode oder die Software geforkt hat und Support und Dienstleistungen für diese Software/den Quellcode anbietet; Downstream ist die Entwicklung durch diejenigen, die den Quellcode oder die Software erstellt oder gepflegt haben.

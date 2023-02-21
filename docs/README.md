@@ -90,7 +90,7 @@ Welche dieser Antworten kann kein Open Source sein?
 
 <!-- data-randomize data-max-trials="1" data-show-solution-button="999" -->
 - [( )] Ein Server Design
-- [( )] Linix Betriebssysteme
+- [( )] Linux Betriebssysteme
 - [(X)] Windows Server
 - [( )] Puppet
 
